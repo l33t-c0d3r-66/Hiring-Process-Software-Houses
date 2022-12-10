@@ -19,7 +19,7 @@
 <li> How to acheive abstraction </li>
 <li> Needs for Setters and Getters </li>
 <li> Typecasting and its types with examples </li>
-<li> Scenrio Based Question Related to Type Casting</li>
+<li> Scenario Based Question Related to Type Casting</li>
 <li> Spaces Occupied by int, float, double </li>
 <li> Agregation vs Composition </li>
 <li> Loose Coupling vs Tight Coupling </li>
